@@ -1,0 +1,67 @@
+
+ 1.Create
+2.Dispaly
+3.Insert
+4.Delete
+5.search
+6.Exit
+Enter your choice1
+Number of elements: 5
+Enter 5 elements : 1
+2
+3
+4
+5
+
+ 1.Create
+2.Dispaly
+3.Insert
+4.Delete
+5.search
+6.Exit
+Enter your choice2
+Array elements:
+ 1
+ 2
+ 3
+ 4
+ 5
+
+ 1.Create
+2.Dispaly
+3.Insert
+4.Delete
+5.search
+6.Exit
+Enter your choice3
+Enter position (1 to 6) and value : 6
+100
+Inserted 100 at position 6 :
+
+ 1.Create
+2.Dispaly
+3.Insert
+4.Delete
+5.search
+6.Exit
+Enter your choice4
+Enter position (1 to 6) : 6
+
+ 1.Create
+2.Dispaly
+3.Insert
+4.Delete
+5.search
+6.Exit
+Enter your choice5
+Enter element to search :
+3
+3 found at position 3:
+
+ 1.Create
+2.Dispaly
+3.Insert
+4.Delete
+5.search
+6.Exit
+Enter your choice

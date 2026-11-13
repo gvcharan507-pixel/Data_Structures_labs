@@ -1,0 +1,26 @@
+
+Aim: To implement an array in C and perform the basic operations on it:
+ creation, display (traversal), insertion, deletion and searching.
+
+Algorithm:
+1.  Start.
+
+2.  Declare an array arr[MAX] and a variable n for the number of elements.
+
+3.  Create: read n, then read n elements into arr.
+
+4.  Display: for i = 0 to n-1, print arr[i].
+
+5.  Insert: read the position pos and the value val. If pos is not between 1 and n+1, report an error.
+ Otherwise shift the elements from index n-1 down to pos-1 one place to the right, store val at index pos-1 
+and increase n by 1
+.
+6.  Delete: read pos. If pos is not between 1 and n, report an error. Otherwise print arr[pos-1], shift the
+ elements from index pos to n-1 one place to the left and decrease n by 1.
+
+7.  Search: read key and compare it with each element from the first to the last (linear search). Print the 
+position if found, otherwise print “not found”.
+
+8.  Repeat the menu until the user selects Exit.
+
+9.  Stop.
